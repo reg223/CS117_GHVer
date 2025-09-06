@@ -1,0 +1,9 @@
+#!/bin/bash
+
+./nastyfiletest 0 ./SRC ./TARGET > files.txt
+./nastyfiletest 1 ./SRC ./TARGET1 > files1.txt
+./nastyfiletest 2 ./SRC ./TARGET2 > files2.txt
+./nastyfiletest 3 ./SRC ./TARGET3 > files3.txt
+./nastyfiletest 4 ./SRC ./TARGET4 > files4.txt
+
+
