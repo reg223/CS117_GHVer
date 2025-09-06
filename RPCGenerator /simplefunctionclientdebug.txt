@@ -1,0 +1,35 @@
+12/03/2024 20:57:24.589596 ./arithmeticclient: rpcproxyinitialize: Creating C150StreamSocket
+12/03/2024 20:57:24.591039 ./arithmeticclient: C150StreamSocket::C150StreamSocket: user port is 7015
+12/03/2024 20:57:24.591059 ./arithmeticclient: C150StreamSocket::connect(comp117-02) called
+12/03/2024 20:57:24.591912 ./arithmeticclient: C150StreamSocket::write: attempting to send packet with len=16 |add.............|
+12/03/2024 20:57:24.591949 ./arithmeticclient: C150StreamSocket::write: Success writing packet with len=16 |add.............|
+12/03/2024 20:57:24.591966 ./arithmeticclient: C150StreamSocket::read: Ready to read data
+12/03/2024 20:57:24.592283 ./arithmeticclient: C150StreamSocket::read: Dropped through read with len=4
+12/03/2024 20:57:24.592301 ./arithmeticclient: C150StreamSocket::read: successful read with len=4 |....|
+12/03/2024 20:57:24.592319 ./arithmeticclient: C150StreamSocket::read: Ready to read data
+12/03/2024 20:57:24.592337 ./arithmeticclient: C150StreamSocket::read: Dropped through read with len=4
+12/03/2024 20:57:24.592354 ./arithmeticclient: C150StreamSocket::read: successful read with len=4 |....|
+12/03/2024 20:57:24.592383 ./arithmeticclient: C150StreamSocket::write: attempting to send packet with len=53 |subtract....(...d.......,.......................(...2|
+12/03/2024 20:57:24.592414 ./arithmeticclient: C150StreamSocket::write: Success writing packet with len=53 |subtract....(...d.......,.......................(...2|
+12/03/2024 20:57:24.592431 ./arithmeticclient: C150StreamSocket::read: Ready to read data
+12/03/2024 20:57:24.592759 ./arithmeticclient: C150StreamSocket::read: Dropped through read with len=4
+12/03/2024 20:57:24.592776 ./arithmeticclient: C150StreamSocket::read: successful read with len=4 |....|
+12/03/2024 20:57:24.592793 ./arithmeticclient: C150StreamSocket::read: Ready to read data
+12/03/2024 20:57:24.592811 ./arithmeticclient: C150StreamSocket::read: Dropped through read with len=4
+12/03/2024 20:57:24.592827 ./arithmeticclient: C150StreamSocket::read: successful read with len=4 |...F|
+12/03/2024 20:57:24.592854 ./arithmeticclient: C150StreamSocket::write: attempting to send packet with len=21 |multiply.............|
+12/03/2024 20:57:24.592889 ./arithmeticclient: C150StreamSocket::write: Success writing packet with len=21 |multiply.............|
+12/03/2024 20:57:24.592906 ./arithmeticclient: C150StreamSocket::read: Ready to read data
+12/03/2024 20:57:24.593253 ./arithmeticclient: C150StreamSocket::read: Dropped through read with len=4
+12/03/2024 20:57:24.593274 ./arithmeticclient: C150StreamSocket::read: successful read with len=4 |....|
+12/03/2024 20:57:24.593291 ./arithmeticclient: C150StreamSocket::read: Ready to read data
+12/03/2024 20:57:24.593310 ./arithmeticclient: C150StreamSocket::read: Dropped through read with len=4
+12/03/2024 20:57:24.593327 ./arithmeticclient: C150StreamSocket::read: successful read with len=4 |....|
+12/03/2024 20:57:24.593362 ./arithmeticclient: C150StreamSocket::write: attempting to send packet with len=19 |divide.............|
+12/03/2024 20:57:24.593408 ./arithmeticclient: C150StreamSocket::write: Success writing packet with len=19 |divide.............|
+12/03/2024 20:57:24.593426 ./arithmeticclient: C150StreamSocket::read: Ready to read data
+12/03/2024 20:57:24.593704 ./arithmeticclient: C150StreamSocket::read: Dropped through read with len=4
+12/03/2024 20:57:24.593721 ./arithmeticclient: C150StreamSocket::read: successful read with len=4 |....|
+12/03/2024 20:57:24.593738 ./arithmeticclient: C150StreamSocket::read: Ready to read data
+12/03/2024 20:57:24.593756 ./arithmeticclient: C150StreamSocket::read: Dropped through read with len=4
+12/03/2024 20:57:24.593773 ./arithmeticclient: C150StreamSocket::read: successful read with len=4 |....|

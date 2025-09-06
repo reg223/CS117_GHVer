@@ -1,0 +1,1035 @@
+12/04/2024 04:43:27.566396 ./testarray1client: rpcproxyinitialize: Creating C150StreamSocket
+12/04/2024 04:43:27.569228 ./testarray1client: C150StreamSocket::C150StreamSocket: user port is 7015
+12/04/2024 04:43:27.569248 ./testarray1client: C150StreamSocket::connect(comp117-02) called
+12/04/2024 04:43:27.570546 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=1161 |sqrt................................................................................................|
+12/04/2024 04:43:27.570580 ./testarray1client: C150StreamSocket::write: Success writing packet with len=1161 |sqrt................................................................................................|
+12/04/2024 04:43:27.570604 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.570923 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.570941 ./testarray1client: C150StreamSocket::read: successful read with len=4 |....|
+12/04/2024 04:43:27.570958 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.570977 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.570994 ./testarray1client: C150StreamSocket::read: successful read with len=4 |....|
+12/04/2024 04:43:27.571028 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=32 |hi.........Hello World!!!!!!!!!.|
+12/04/2024 04:43:27.571064 ./testarray1client: C150StreamSocket::write: Success writing packet with len=32 |hi.........Hello World!!!!!!!!!.|
+12/04/2024 04:43:27.571081 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.571309 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.571327 ./testarray1client: C150StreamSocket::read: successful read with len=4 |....|
+12/04/2024 04:43:27.571344 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.571362 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.571379 ./testarray1client: C150StreamSocket::read: successful read with len=4 |<#..|
+12/04/2024 04:43:27.571419 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=86 |findPerson....G....David.....C.........Donald.....Trump....M....Kamala.....Harris....7|
+12/04/2024 04:43:27.571455 ./testarray1client: C150StreamSocket::write: Success writing packet with len=86 |findPerson....G....David.....C.........Donald.....Trump....M....Kamala.....Harris....7|
+12/04/2024 04:43:27.571472 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.571840 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.571857 ./testarray1client: C150StreamSocket::read: successful read with len=4 |....|
+12/04/2024 04:43:27.571874 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.571892 ./testarray1client: C150StreamSocket::read: Dropped through read with len=22
+12/04/2024 04:43:27.571910 ./testarray1client: C150StreamSocket::read: successful read with len=22 |....David......C......|
+12/04/2024 04:43:27.571940 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.571975 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.571992 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.572235 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.572253 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.572270 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.572288 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.572307 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.572339 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=20 |DoesNothing.....<#..|
+12/04/2024 04:43:27.572372 ./testarray1client: C150StreamSocket::write: Success writing packet with len=20 |DoesNothing.....<#..|
+12/04/2024 04:43:27.572389 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.572789 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.572807 ./testarray1client: C150StreamSocket::read: successful read with len=4 |....|
+12/04/2024 04:43:27.572824 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.572841 ./testarray1client: C150StreamSocket::read: Dropped through read with len=7
+12/04/2024 04:43:27.572858 ./testarray1client: C150StreamSocket::read: successful read with len=7 |__Done.|
+12/04/2024 04:43:27.572878 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=36 |DoesSomeing.........David.....C.....|
+12/04/2024 04:43:27.572909 ./testarray1client: C150StreamSocket::write: Success writing packet with len=36 |DoesSomeing.........David.....C.....|
+12/04/2024 04:43:27.572926 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.573303 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.573321 ./testarray1client: C150StreamSocket::read: successful read with len=4 |....|
+12/04/2024 04:43:27.573337 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.573355 ./testarray1client: C150StreamSocket::read: Dropped through read with len=7
+12/04/2024 04:43:27.573372 ./testarray1client: C150StreamSocket::read: successful read with len=7 |__Done.|
+12/04/2024 04:43:27.573394 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=63 |getFirstString....,....hello.....hi.....look.....asdn.....mama.|
+12/04/2024 04:43:27.573425 ./testarray1client: C150StreamSocket::write: Success writing packet with len=63 |getFirstString....,....hello.....hi.....look.....asdn.....mama.|
+12/04/2024 04:43:27.573442 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.573855 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.573872 ./testarray1client: C150StreamSocket::read: successful read with len=4 |....|
+12/04/2024 04:43:27.573889 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.573907 ./testarray1client: C150StreamSocket::read: Dropped through read with len=8
+12/04/2024 04:43:27.573924 ./testarray1client: C150StreamSocket::read: successful read with len=8 |....hi..|
+12/04/2024 04:43:27.573957 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=726 |getTotalAge.........David.....C.........Donald.....Trump....M....Kamala.....Harris....7....David....|
+12/04/2024 04:43:27.573982 ./testarray1client: C150StreamSocket::write: Success writing packet with len=726 |getTotalAge.........David.....C.........Donald.....Trump....M....Kamala.....Harris....7....David....|
+12/04/2024 04:43:27.574011 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.574387 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.574404 ./testarray1client: C150StreamSocket::read: successful read with len=4 |....|
+12/04/2024 04:43:27.574421 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.574439 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.574456 ./testarray1client: C150StreamSocket::read: successful read with len=4 |....|
+12/04/2024 04:43:27.574498 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.574538 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.574555 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.574833 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.574855 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.574871 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.574890 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.574909 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.574929 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.574959 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.574976 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.575206 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.575223 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.575240 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.575257 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.575276 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.575295 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.575325 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.575342 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.575550 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.575567 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.575583 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.575601 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.575620 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.575639 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.575668 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.575685 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.575889 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.575907 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.575923 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.575941 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.575959 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.575978 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.576007 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.576024 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.576256 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.576274 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.576291 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.576308 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.576327 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.576350 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.576383 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.576401 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.576614 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.576632 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.576649 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.576667 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.576686 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.576705 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.576736 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.576753 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.576956 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.576974 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.576990 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.577008 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.577026 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.577046 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.577075 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.577092 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.577306 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.577323 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.577340 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.577358 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.577376 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.577395 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.577428 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.577453 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.577654 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.577671 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.577688 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.577706 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.577725 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.577744 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.577774 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.577791 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.577994 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.578015 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.578032 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.578049 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.578068 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.578087 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.578118 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.578136 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.578339 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.578356 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.578373 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.578392 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.578410 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.578429 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.578459 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.578476 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.578675 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.578693 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.578709 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.578727 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.578745 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.578764 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.578794 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.578810 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.579017 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.579035 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.579051 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.579069 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.579088 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.579107 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.579138 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.579155 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.579362 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.579380 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.579396 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.579415 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.579433 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.579455 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.579486 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.579503 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.579800 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.579817 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.579834 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.579852 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.579870 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.579889 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.579919 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.579935 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.580153 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.580177 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.580194 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.580213 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.580231 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.580250 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.580283 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.580301 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.580495 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.580512 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.580528 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.580547 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.580566 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.580585 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.580610 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.580632 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.580838 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.580855 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.580872 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.580890 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.580908 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.580927 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.580957 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.580974 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.581187 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.581205 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.581225 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.581243 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.581261 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.581280 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.581314 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.581331 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.581527 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.581544 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.581561 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.581579 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.581597 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.581616 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.581646 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.581663 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.581858 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.581875 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.581892 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.581910 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.581928 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.581947 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.581977 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.581993 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.582204 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.582222 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.582239 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.582256 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.582275 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.582294 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.582327 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.582344 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.582539 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.582556 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.582572 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.582590 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.582608 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.582627 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.582663 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.582680 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.582878 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.582895 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.582911 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.582929 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.582947 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.582967 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.582996 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.583013 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.583214 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.583232 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.583248 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.583266 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.583285 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.583304 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.583337 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.583355 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.583557 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.583574 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.583591 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.583609 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.583627 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.583646 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.583676 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.583693 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.583890 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.583907 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.583924 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.583941 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.583960 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.583979 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.584008 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.584025 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.584226 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.584243 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.584263 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.584281 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.584300 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.584319 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.584352 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.584369 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.584564 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.584581 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.584598 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.584616 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.584634 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.584653 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.584683 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.584700 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.584904 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.584921 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.584937 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.584955 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.584973 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.584992 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.585021 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.585038 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.585243 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.585261 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.585277 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.585295 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.585314 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.585333 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.585366 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.585384 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.585589 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.585606 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.585622 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.585641 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.585659 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.585679 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.585714 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.585731 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.585930 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.585947 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.585964 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.585984 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.586007 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.586033 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.586068 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.586085 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.586293 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.586311 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.586327 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.586345 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.586364 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.586383 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.586416 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.586435 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.586684 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.586702 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.586718 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.586736 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.586755 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.586774 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.586800 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.586823 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.587033 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.587050 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.587067 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.587085 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.587103 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.587122 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.587153 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.587177 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.587384 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.587401 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.587418 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.587441 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.587464 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.587483 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.587513 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.587530 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.587763 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.587781 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.587798 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.587816 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.587835 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.587854 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.587884 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.587901 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.588143 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.588161 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.588187 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.588208 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.588227 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.588246 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.588280 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.588297 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.588518 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.588535 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.588552 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.588570 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.588588 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.588607 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.588637 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.588654 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.588872 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.588889 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.588906 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.588924 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.588943 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.588962 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.588991 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.589011 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.589225 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.589243 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.589260 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.589278 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.589296 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.589315 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.589349 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.589366 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.589572 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.589589 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.589606 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.589624 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.589642 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.589662 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.589692 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.589709 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.589910 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.589927 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.589943 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.589961 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.589980 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.589999 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.590028 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.590045 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.590252 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.590270 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.590286 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.590304 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.590323 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.590342 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.590373 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.590390 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.590597 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.590614 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.590630 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.590648 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.590670 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.590689 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.590722 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.590739 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.590950 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.590968 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.590986 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.591004 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.591023 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.591042 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.591075 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.591093 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.591321 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.591339 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.591356 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.591375 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.591393 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.591413 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.591448 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.591465 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.591672 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.591690 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.591706 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.591725 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.591744 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.591763 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.591794 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.591812 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.592013 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.592031 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.592047 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.592065 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.592084 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.592103 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.592134 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.592151 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.592372 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.592390 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.592406 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.592425 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.592443 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.592462 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.592495 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.592512 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.592720 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.592737 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.592754 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.592771 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.592790 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.592809 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.592838 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.592855 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.593074 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.593092 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.593109 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.593127 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.593146 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.593165 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.593200 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.593217 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.593428 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.593446 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.593463 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.593481 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.593500 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.593519 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.593552 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.593570 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.593771 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.593788 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.593805 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.593823 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.593841 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.593863 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.593896 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.593914 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.594122 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.594139 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.594156 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.594181 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.594200 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.594219 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.594249 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.594266 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.594467 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.594485 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.594502 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.594520 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.594539 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.594558 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.594593 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.594610 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.594808 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.594826 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.594843 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.594861 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.594879 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.594898 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.594929 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.594946 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.595152 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.595181 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.595198 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.595216 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.595234 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.595253 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.595285 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.595303 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.595515 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.595532 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.595549 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.595567 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.595586 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.595605 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.595638 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.595656 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.595849 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.595866 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.595883 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.595902 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.595921 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.595940 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.595974 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.595992 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.596206 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.596224 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.596241 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.596259 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.596277 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.596297 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.596328 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.596345 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.596550 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.596568 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.596585 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.596603 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.596622 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.596641 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.596675 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.596693 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.596897 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.596915 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.596932 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.596950 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.596968 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.596991 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.597023 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.597041 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.597234 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.597251 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.597268 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.597286 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.597305 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.597324 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.597354 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.597371 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.597573 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.597591 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.597608 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.597625 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.597644 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.597663 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.597696 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.597714 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.597914 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.597932 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.597949 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.597967 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.597985 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.598004 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.598037 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.598055 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.598257 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.598275 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.598291 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.598309 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.598328 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.598347 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.598373 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.598398 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.598612 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.598634 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.598651 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.598669 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.598687 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.598707 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.598739 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.598757 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.598955 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.598973 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.598989 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.599008 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.599026 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.599045 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.599075 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.599092 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.599295 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.599312 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.599329 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.599347 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.599366 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.599385 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.599411 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.599434 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.599646 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.599663 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.599680 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.599698 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.599717 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.599736 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.599766 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.599784 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.599986 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.600003 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.600020 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.600037 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.600056 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.600078 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.600108 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.600125 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.600333 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.600350 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.600367 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.600385 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.600404 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.600423 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.600453 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.600470 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.600679 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.600696 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.600713 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.600731 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.600750 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.600768 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.600801 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.600819 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.601021 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.601039 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.601055 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.601073 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.601092 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.601111 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.601141 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.601158 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.601361 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.601379 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.601396 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.601414 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.601432 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.601452 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.601486 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.601504 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.601707 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.601725 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.601746 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.601764 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.601782 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.601801 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.601835 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.601853 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.602046 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.602063 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.602080 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.602098 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.602116 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.602135 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.602165 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.602190 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.602386 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.602404 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.602421 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.602438 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.602457 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.602476 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.602509 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.602527 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.602724 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.602742 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.602759 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.602776 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.602795 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.602814 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.602846 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.602864 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.603065 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.603082 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.603099 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.603117 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.603135 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.603155 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.603197 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.603215 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.603408 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.603426 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.603443 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.603461 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.603480 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.603499 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.603532 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.603549 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.603745 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.603763 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.603779 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.603797 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.603816 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.603835 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.603869 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.603886 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.604089 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.604106 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.604123 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.604141 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.604159 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.604195 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.604229 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.604247 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.604457 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.604475 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.604492 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.604510 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.604528 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.604547 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.604581 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.604598 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.604797 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.604815 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.604835 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.604853 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.604871 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.604890 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.604923 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.604941 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.605150 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.605167 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.605193 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.605212 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.605231 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.605251 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.605281 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.605298 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.605497 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.605514 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.605531 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.605549 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.605568 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.605587 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.605613 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.605636 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.605836 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.605853 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.605870 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.605888 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.605906 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.605925 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.605961 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.605983 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.606244 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.606261 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.606278 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.606297 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.606315 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.606335 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.606378 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.606396 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.606602 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.606620 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.606637 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.606655 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.606674 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.606693 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.606726 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.606744 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.606938 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.606955 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.606972 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.606990 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.607008 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.607027 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.607061 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.607079 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.607300 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.607318 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.607335 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.607353 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.607371 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.607391 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.607425 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.607443 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.607639 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.607656 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.607673 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.607691 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.607709 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.607728 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.607758 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.607775 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.607974 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.607991 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.608008 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.608029 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.608048 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.608067 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.608099 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.608117 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.608313 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.608331 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.608347 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.608366 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.608384 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.608403 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.608433 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.608450 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.608652 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.608669 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.608686 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.608703 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.608722 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.608741 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.608771 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.608787 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.608987 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.609005 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.609022 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.609040 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.609058 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.609078 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.609110 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.609128 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.609330 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.609348 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.609365 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.609383 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.609401 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.609420 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.609451 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.609472 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.609670 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.609687 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.609704 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.609722 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.609741 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.609760 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.609793 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.609810 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.610012 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.610030 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.610046 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.610065 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.610083 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.610102 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.610133 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.610150 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.610354 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.610372 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.610389 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.610407 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.610425 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.610445 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.610479 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.610496 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.610690 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.610707 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.610724 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.610742 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.610760 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.610780 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.610810 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.610827 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.611029 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.611047 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.611064 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.611082 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.611103 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.611122 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.611156 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.611180 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.611370 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.611388 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.611405 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.611423 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.611442 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.611461 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.611487 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.611511 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.611708 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.611726 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.611743 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.611761 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.611780 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.611799 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.611831 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.611849 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.612043 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.612060 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.612076 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.612095 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.612113 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.612132 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.612162 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.612185 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.612387 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.612405 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.612422 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.612440 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.612458 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.612477 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.612510 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.612531 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.612720 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.612738 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.612754 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.612772 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.612791 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.612810 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.612843 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.612860 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.613052 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.613069 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.613086 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.613104 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.613122 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.613141 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.613178 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.613197 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.613382 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.613399 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.613416 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.613434 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.613453 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.613472 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.613505 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.613523 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.613723 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.613741 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.613757 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.613775 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.613794 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.613812 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.613846 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.613864 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.614065 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.614082 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.614099 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.614117 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.614139 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.614158 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.614195 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.614211 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.614413 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.614430 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.614447 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.614465 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.614484 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.614503 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.614536 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.614554 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.614754 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.614771 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.614788 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.614806 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.614824 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.614843 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.614877 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.614894 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.615106 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.615123 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.615140 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.615158 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.615182 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.615202 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.615234 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.615252 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.615456 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.615473 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.615490 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.615508 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.615526 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.615545 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.615578 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.615596 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.615797 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.615815 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.615831 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.615850 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.615868 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.615887 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9 |test.....|
+12/04/2024 04:43:27.615920 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9 |test.....|
+12/04/2024 04:43:27.615937 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.616148 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.616166 ./testarray1client: C150StreamSocket::read: successful read with len=4 |...F|
+12/04/2024 04:43:27.616189 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.616207 ./testarray1client: C150StreamSocket::read: Dropped through read with len=70
+12/04/2024 04:43:27.616226 ./testarray1client: C150StreamSocket::read: successful read with len=70 |...R....David.....Chen.........Sam.....Feng.........Tobias.....Fu.....|
+12/04/2024 04:43:27.616275 ./testarray1client: C150StreamSocket::write: attempting to send packet with len=9140 |getNestedPerson...#....R....David......Chen..........Sam......Feng..........Tobias......Fu.........R|
+12/04/2024 04:43:27.616306 ./testarray1client: C150StreamSocket::write: Success writing packet with len=9140 |getNestedPerson...#....R....David......Chen..........Sam......Feng..........Tobias......Fu.........R|
+12/04/2024 04:43:27.616323 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.616873 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.616891 ./testarray1client: C150StreamSocket::read: successful read with len=4 |....|
+12/04/2024 04:43:27.616908 ./testarray1client: C150StreamSocket::read: Ready to read data
+12/04/2024 04:43:27.616926 ./testarray1client: C150StreamSocket::read: Dropped through read with len=4
+12/04/2024 04:43:27.616943 ./testarray1client: C150StreamSocket::read: successful read with len=4 |....|

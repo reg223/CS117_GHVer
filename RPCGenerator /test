@@ -1,0 +1,4 @@
+#bin/bash
+python3 rpcgen.py testarray1.idl
+make testarray1client
+make testarray1server

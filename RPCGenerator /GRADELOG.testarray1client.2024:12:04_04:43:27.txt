@@ -1,0 +1,2 @@
+THIS IS LOG FILE: GRADELOG.testarray1client.2024:12:04_04:43:27.txt
+Grading log started on 12/04/2024 04:43:27.566373 Command line = [./testarray1client comp117-02]
